@@ -43,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="d4349ebac9ca19433751777af2e9e3bb91297522">
+        sha1="0179c498bc3cb715eb7b2e7abe087f2b8fcafd6e">
         <dex dex="C:\Users\Dan\Documents\GitHub\first-android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e8c91c1347b93599d14f67164d046cb508f07235\classes.dex" />
     </item>
     <item
@@ -61,7 +61,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0d02e66366c13da509c8e29929c5fec47ddf3449">
+        sha1="9f312dfacfc7b5d6ca43665bf741e73f9696279e">
         <dex dex="C:\Users\Dan\Documents\GitHub\first-android-app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1aceff59e33894de9f249bf37e5190fe28e4917e\classes.dex" />
     </item>
     <item
